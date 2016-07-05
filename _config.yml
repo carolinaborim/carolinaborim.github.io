@@ -7,7 +7,7 @@
 
 # Site settings
 title: My Journey in Tech
-email: carolina.borim@gmail.com
+#email: carolina.borim@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
