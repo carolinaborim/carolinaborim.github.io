@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm a software engineer currently working at [ThoughtWorks Brasil](https://www.thoughtworks.com/pt). 
 I am passionate about software quality and I love math challenges. 
-Since 2007 I organize and participate in IT events.
+Since 2007 I organize and participate in IT events.<br>
 My big goal is to inspire people in their technical journey, showing that IT is for everyone. 
 Another big passion: travel around the world!
 
