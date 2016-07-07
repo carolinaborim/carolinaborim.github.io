@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "WhoAmI"
-date:   2016-06-21
+date:   2016-07-06
 categories: jekyll update
 ---
 Quem sou eu? Eu sou a Carolina. Sou brasileira e estudei Ciências da
@@ -28,8 +28,8 @@ desenvolvedora. Até que eu refleti.
 
 Eu sempre fui encorajada a pensar que mulheres não serviam para programar, como
 eu era mulher, consequentemente: eu não servia para isso!!!! Sim, o ambiente é
-hostil e essa hostilidade acaba interferindo na autoconfiança. Mesmo tendo
-feito bem um curso em uma boa faculdade, eu nunca acreditei que eu era capaz de
+hostil e essa hostilidade acaba interferindo na autoconfiança. Mesmo saindo
+super bem na faculdade, eu nunca acreditei que eu era capaz de
 aplicar para uma vaga de emprego como desenvolvedora.
 
 Há pouco mais de dois anos eu comecei a trabalhar na ThoughtWorks. No primeiro
