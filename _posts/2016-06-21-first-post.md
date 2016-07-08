@@ -20,7 +20,7 @@ desenvolvidos (e em muitos casos era eu que projetava essa solução), a pessoa
 que criava cenários de testes ou até mesmo a pessoa que gerenciava o projeto.
 Mas infelizmente, eu jamais era a desenvolvedora.
 
-Pensando nisso, percebi que não fazia sentido nenhum. Eu **amava** programar.
+Pensando nisso, percebi que não fazia sentido nenhum. Eu ***amo*** programar.
 Na faculdade, me lembro que me sentia realizada quando conseguia resolver os
 problemas usando a linguagem de programação que eu mais gostava: C. Mas nunca
 tinha parado para entender o motivo de nunca ter trabalhado como
