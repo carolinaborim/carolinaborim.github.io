@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "WhoAmI"
+title:  "Quem Sou eu"
 date:   2016-07-06
-categories: jekyll update
+categories: my journey
 ---
 Quem sou eu? Eu sou a Carolina. Sou brasileira e estudei Ciências da
 Computação. Sempre amei matemática e desafios, mas me sentia diferente por
@@ -34,16 +34,16 @@ aplicar para uma vaga de emprego como desenvolvedora.
 
 Há pouco mais de dois anos eu comecei a trabalhar na ThoughtWorks. No primeiro
 dia de trabalho eu já fiquei super bem impressionada porque várias mulheres que
-sentavam perto de mim eram desenvolvedoras.
+sentavam perto de mim eram desenvolvedoras. Comecei a conversar com diferentes
+pessoas e obtive muitas influências positivas.
 
-Comecei a conversar com diferentes pessoas e obtive muitas influências
-positivas. Na maioria das vezes, as pessoas acreditavam mais em mim do que eu
-mesma, mas foi aí que, de fato, comecei a abrir os olhos e ver que estava
-fazendo uma coisa que não acreditava que era capaz de fazer. Eu estava sim
-trabalhando como desenvolvedora de software. E a cada dia confirmo que é isso
-que quero todos os dias da vida.
+Na maioria das vezes, as pessoas acreditavam mais em mim do que eu mesma, mas
+foi aí que, de fato, comecei a abrir os olhos e ver que estava fazendo uma
+coisa que não acreditava que era capaz de fazer. Eu estava sim trabalhando como
+desenvolvedora de software. E a cada dia confirmo que é isso que quero todos os
+dias da vida.
 
-O objetivo desse blog é trazer textos, tutoriais sobre o que tenho estudado e
+O objetivo desse blog é trazer textos e tutoriais sobre o que tenho estudado e
 mostrar a minha jornada técnica. O que eu tenho feito para desconstruir
 diariamente aquilo que eu erroneamente não acreditava que era capaz. Leva
 tempo, principalmente porque sinto que tenho muitos gaps de conhecimento em
@@ -53,5 +53,5 @@ Além disso, tenho por objetivo criar conteúdos que servem para ajudar outras
 pessoas a construírem também as suas jornadas técnicas e incentivar que a
 prática do desenvolvimento de software é para qualquer um, basta querer! É um
 caminho que requer muito esforço, mas tem sido um caminho muito divertido e
-espero que possa torná-lo mais fácil e divertido para você que está lendo,
+espero que possa torná-lo mais fácil e divertido para você que está lendo
 também!
